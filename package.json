@@ -1,0 +1,20 @@
+{
+  "name": "es-features",
+  "version": "1.0.0",
+  "description": "Explore ES6-ES11 new features:mag:",
+  "main": "builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyCatZhang/ES-Features.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyCatZhang/ES-Features/issues"
+  },
+  "homepage": "https://github.com/CrazyCatZhang/ES-Features#readme"
+}
